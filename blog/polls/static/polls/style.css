@@ -1,0 +1,19 @@
+html {
+    background: white url("https://images.unsplash.com/photo-1458419948946-19fb2cc296af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80") no-repeat fixed;
+    background-size: cover;
+
+}
+
+li {
+    margin: 13px;
+}
+ul{
+    background:white;
+    border-radius: 5px;
+    margin: 30px  ;
+    padding:17px;
+}
+li a {
+    color: #19ce19;
+    font-size: 30px;
+}
